@@ -18,6 +18,7 @@ MeowPKU(Make Each One Warm in PKU)
 
 # 三、网站项目定义
 ## 1.网站名称、logo
+![](./.demo/logo.png)
 
 ## 2.设计说明
 ### a)情境
