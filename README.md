@@ -61,7 +61,7 @@ MeowPKU(Make Each One Warm in PKU)
 
 #### ii.故事板
 
-！[](./demo/scenen.png)
+![](./demo/scenen.png)
 
 
 ### b)用户
