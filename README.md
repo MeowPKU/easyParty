@@ -61,7 +61,6 @@ MeowPKU(Make Each One Warm in PKU)
 
 #### ii.故事板
 
-![](./.demo/usermap.png)
 
 ### b)用户
 #### i.用户调研报告
@@ -333,6 +332,8 @@ MeowPKU(Make Each One Warm in PKU)
 **用户感受：** 用户看到其要举报的活动/内容/用户时会产生讨厌甚至恶心的感觉，当平台给出回应后用户的这些不适感觉将会减轻或消失
 
 #### iii.用户体验地图
+
+![](./.demo/usermap.png)
 
 ### d)功能
 #### i.网站功能及其目标
