@@ -18,7 +18,7 @@ MeowPKU(Make Each One Warm in PKU)
 ## 1.网站名称、logo
 **网站名称**
 
-易聚趴（easyParty）
+### 易聚趴（easyParty）
 
 **网站logo**
 
