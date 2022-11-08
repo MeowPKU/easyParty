@@ -394,7 +394,14 @@ MeowPKU(Make Each One Warm in PKU)
 
 # 四、技术实现方法
 ## 1.程序语言
+**HTML(HyperText Markup Language，超文本标记语言).** HTML语言运行在浏览器上，由浏览器进行解析，可以使用HTML建立Web站点，确定站点内容、框架，设置表单以及前端交互接口等。
+
+**CSS(Cascading Style Sheets，层叠样式表)** CSS用于为HTML添加样式，将style从HTML当中分离出来，便于统一网站风格，提高开发效率，也能实现良好的视觉呈现效果，优化用户互动体验。
+
+**JS(JavaScript)** JavaScript是Web内置的脚本语言，原生JavaScript可以实现网站的基本交互功能，用以控制网站行为，结合诸如Jquery等第三方库，JavaScript能够实现非常丰富且强大的功能，特别是在Node.js框架下设置可以实现基于前后端分离的全栈式开发。
 
 ## 2.设计软件
+**Git** git是一个代码版本的控制软件，对于前端的架构设计而言，使用git能够方便的进行分支管理和代码回溯，从而实现网站功能实现时尽可能减少对原代码的改动，从而维护项目进程。
 
 ## 3.开发平台
+**GitHub(https://github.com)** GitHub是全球最大的代码托管网站，基于git作为版本控制软件。使用GitHub协同开发将会大大提高项目开发的效率，并使代码更加安全、高质、有效。我们的项目将放会在GitHub上并进行实时更新，以便进行代码备份和版本控制。[(我们的代码仓库！)](https://github.com/MeowPKU/easyParty)
