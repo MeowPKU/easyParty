@@ -26,6 +26,10 @@ MeowPKU(Make Each One Warm in PKU)
 
 ![](./.demo/logo.jpg)
 
+**团队logo**
+
+![](./.demo/TeamLogo.jpg)
+
 
 ## 2.设计说明
 ### a)情境
